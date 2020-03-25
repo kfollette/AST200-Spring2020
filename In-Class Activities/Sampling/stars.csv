@@ -1,0 +1,51 @@
+﻿Rank,Star Name,Bayer Name,Visual Mag.,Abs. Mag.,Dist. (ly),Spectral Type,Lum. (Sol),Mass (Sol),Diam. (Sol),RA ,Dec 
+1,Sirius,Alp CMa,-1.44,1.45,8.6,A1V,25,2,1.7,06h 45m,-16.7°
+2,Canopus,Alp Car,-0.62,-5.53,310,F0Ib,13600,8.5,65,06h 24m,-52.7°
+3,Rigil Kent.,Alp Cen,-0.28,4.34,4.4,G2V+K1V,1.5,1.1,1.2,14h 40m,-60.8°
+4,Arcturus,Alp Boo,-0.05,-0.31,36.7,K2III,170,1.1,26,14h 16m,+19.2°
+5,Vega,Alp Lyr,0.03,0.58,25.3,A0V,37,2.1,2.3,18h 37m,+38.8°
+6,Capella,Alp Aur,0.08,-0.48,42.2,G5III+G0II,79,2.7,12,05h 17m,+46.0°
+7,Rigel,Bet Ori,0.18,-6.69,770,B8Ia,66000,17,78,05h 15m,-8.2°
+8,Procyon,Alp CMi,0.4,2.68,11.4,F5IV-V,7.7,1.5,2,07h 39m,+5.2°
+9,Betelgeuse,Alp Ori,0.45,-5.14,430,M2Ib,105000,18,936,05h 55m,+7.4°
+10,Achernar,Alp Eri,0.45,-2.77,144,B3V,3300,7,10,01h 38m,-57.2°
+11,Hadar,Bet Cen,0.61,-5.42,525,B1III,16000,10.7,8,14h 04m,-60.4°
+12,Altair,Alp Aql,0.76,2.2,16.8,A7V,10.6,1.8,1.8,19h 51m,+8.9°
+13,Acrux,Alp Cru,0.77,-4.19,320,B0.5IV+B1V,25000,14,?,12h 27m,-63.1°
+14,Aldebaran,Alp Tau,0.87,-0.63,65.1,K5III,425,1.7,44.2,04h 36m,+16.5°
+15,Spica,Alp Vir,0.98,-3.55,260,B1V+B2V,13400,11,7.8,13h 25m,-11.2°
+16,Antares,Alp Sco,1.06,-5.28,605,M1Ib+B4V,65000,15.5,800,16h 29m,-26.4°
+17,Pollux,Bet Gem,1.16,1.09,33.7,K0III,32,1.9,8,07h 45m,+28.0°
+18,Fomalhaut,Alp PsA,1.17,1.74,25.1,A3V,17.7,2.1,1.8,22h 58m,-29.6°
+19,Deneb,Alp Cyg,1.25,-8.73,3200,A2Ia,54000,20,110,20h 41m,+45.3°
+20,Mimosa,Bet Cru,1.25,-3.92,350,B0.5III,34000,14,8,12h 48m,-59.7°
+21,Regulus,Alp Leo,1.36,-0.52,77.5,B7V,150,3.5,3.2,10h 08m,+12.0°
+22,Adhara,Eps CMa,1.5,-4.1,430,B2II,20000,10,?,06h 59m,-29.0°
+23,Castor,Alp Gem,1.58,0.59,51.5,A1V+A2V,binary,binary,binary,07h 35m,+31.9°
+24,Gacrux,Gam Cru,1.59,-0.56,87.9,M3.5III,1500,3,113,12h 31m,-57.1°
+25,Shaula,Lam Sco,1.62,-5.05,700,B2IV,?,10.4,6.2,17h 34m,-37.1°
+26,Bellatrix,Gam Ori,1.64,-2.72,240,B2III,21500,8,5.7,05h 25m,+6.3°
+27,Elnath,Bet Tau,1.65,-1.37,131,B7III,70,4.5,5.5,05h 26m,+28.6°
+28,Miaplacidus,Bet Car,1.67,-0.99,111,A2III,210,3,5.7,09h 13m,-69.7°
+29,Alnilam,Eps Ori,1.69,-6.38,1300,B0Ia,375000,40,26,05h 36m,-1.2°
+30,Alnair,Alp Gru,1.73,-0.73,101,B7IV,380,4,3.6,22h 08m,-47.0°
+31,Alnitak,Zet Ori,1.74,-5.26,820,O9.5Ib+B0I,100000,28,20,05h 41m,-1.9°
+32,Regor,Gam Vel,1.75,-5.31,840,WC8+O9Ib,100000,30,13,08h 10m,-47.3°
+33,Alioth,Eps UMa,1.76,-0.21,80.9,A0IV,108,3,3.7,12h 54m,+56.0°
+34,Kaus Aust.,Eps Sgr,1.79,-1.44,145,B9.5III,375,5,7,18h 24m,-34.4°
+35,Mirfak,Alp Per,1.79,-4.5,590,F5Ib,5400,11,56,03h 24m,+49.9°
+36,Dubhe,Alp UMa,1.81,-1.08,124,K0III+F0V,300,4,30,11h 04m,+61.8°
+37,Wezen,Del CMa,1.83,-6.87,1800,F8Ia,50000,17,200,07h 08m,-26.4°
+38,Alkaid,Eta UMa,1.85,-0.6,101,B3V,700,6,1.8,13h 48m,+49.3°
+39,Sargas,The Sco,1.86,-2.75,270,F1II,960,3.7,20,17h 37m,-43.0°
+40,Avior,Eps Car,1.86,-4.58,630,K3II+B2V,binary,binary,binary,08h 23m,-59.5°
+41,Menkalinan,Bet Aur,1.9,-0.1,82.1,A2IV,48,2.4,2.8,06h 00m,+44.9°
+42,Atria,Alp TrA,1.91,-3.62,415,K2Ib-II,5500,7,?,16h 49m,-69.0°
+43,Koo She,Del Vel,1.93,-0.01,79.7,A0V,?,?,?,08h 45m,-54.7°
+44,Alhena,Gam_Gem,1.93,-0.6,105,A0IV,160,2.8,4.4,06h 38m,+16.4°
+45,Peacock,Alp Pav,1.94,-1.81,180,B0.5V+B2V,2100,5,4.4,20h 26m,-56.7°
+46,Polaris,Alp UMi,1.97,-3.64,430,F7Ib-II,2200,7.5,30,02h 32m,+89.3°
+47,Mirzam,Bet CMa,1.98,-3.95,500,B1III,19000,?,?,06h 23m,-18.0°
+48,Alphard,Alp Hya,1.99,-1.69,180,K3II,?,3,50.5,09h 28m,-8.7°
+49,Algieba,Gam Leo,2.01,-0.92,126,K0III+G7II,binary,1.23,32,10h 20m,+19.8°
+50,Hamal,Alp Ari,2.01,0.48,65.9,K2III,90,2,15,02h 07m,+23.5°
